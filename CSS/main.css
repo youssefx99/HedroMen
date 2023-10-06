@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Rubik";
+}
+.bacground {
+  background-image: url("../images/tr.jpg");
+  background-size: cover;
+  height: 88vh;
+}
+.change--div {
+  font-size: 20px;
+}
+.search-bar {
+  margin-right: -400px;
+}
+
+.setting-icon {
+  font-size: 30px;
+}
+
+.notafication-icon {
+  font-size: 30px;
+  margin-left: 30px;
+}
+
+.container {
+  padding: 10px;
+  display: grid;
+  height: 550px;
+  grid-template-areas:
+    "W W W C C C"
+    "W W W C C C"
+    "D D T B F M"
+    "D D T B F M";
+  grid-gap: 20px;
+  margin: 0px auto;
+
+  /* background-color: black; */
+  width: 1400px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 15px !important;
+  color: white;
+  font-size: 70px;
+  text-decoration: none;
+  opacity: 0.8;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+  transition: box-shadow 0.3s, opacity 0.5s; /* Add transition for box shadow and opacity */
+}
+
+.card:hover {
+  opacity: 1;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.7); /* Change box shadow on hover */
+}
+
+.card:hover {
+  text-decoration: none;
+  color: white;
+}
+.waterCycle {
+  grid-area: W;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(100, 138, 243),
+    rgb(0, 11, 131)
+  );
+}
+.courses {
+  grid-area: C;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(59, 215, 111),
+    rgb(25, 114, 0)
+  );
+}
+
+.coursesData {
+  display: flex;
+  width: 100%;
+  /* margin: 0 10px; */
+  /* flex-direction: row; */
+  justify-content: space-between;
+}
+
+.courseName {
+  margin: 0 -30px;
+}
+
+.daily {
+  grid-area: D;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(255, 255, 10),
+    rgb(176, 113, 4)
+  );
+}
+.top {
+  grid-area: T;
+  background-image: linear-gradient(
+    to bottom right,
+    rgb(254, 188, 88),
+    rgb(114, 104, 0)
+  );
+}
+.bank {
+  grid-area: B;
+  /* text-decoration: none; */
+  /* background-color: #ccc; */
+
+  background-image: linear-gradient(to bottom right, #ff7856, #dddddd);
+}
+.favourite {
+  grid-area: F;
+  background-image: linear-gradient(to bottom right, #f4e241, #dddddd);
+}
+.communite {
+  grid-area: M;
+  background-image: linear-gradient(to bottom right, #5648eb, #a8a0ff);
+}

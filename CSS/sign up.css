@@ -1,0 +1,42 @@
+* {
+  font-family: "Rubik";
+  font-weight: bold;
+}
+body {
+  background-image: linear-gradient(to bottom right, #f8f8f8, #97bbff);
+}
+.sign-up-container {
+  margin: 0px 100px;
+  height: calc(100vh + 10px);
+}
+
+.sign-up-container form {
+  margin-top: -10px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 40px;
+  justify-content: center;
+  align-items: flex-end;
+  transform: scale(0.8);
+}
+.upload-label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.upload_photo {
+  width: 200px;
+  border-radius: 50%;
+}
+.form-select {
+  min-width: 535px;
+}
+.buttonFormCreate {
+  grid-column: span 2;
+  width: 400px;
+  margin: 0 auto;
+}
+.privacy {
+  /* grid-column: span 2; */
+  /* width: 600px; */
+}

@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Rubik";
+}
+body {
+  background-image: url("../images/tr.jpg");
+  background-size: cover;
+  height: 88vh;
+}
+
+.usersInfo {
+  font-size: 1.7em;
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+
+  /* margin-top: 5em; */
+
+  /* border: 2px solid black; */
+}
+
+.theUser {
+  padding: 20px;
+  margin: 10px 0px;
+  background-color: rgba(255, 255, 255, 0.988);
+  width: 100%;
+  border-radius: 10px;
+}
+
+.userName {
+  font-weight: bold;
+}
+
+.userData {
+  display: flex;
+}
+
+.data {
+  margin-right: 20px;
+}
+
+.userfound {
+  width: 500px;
+  /* border: 2px solid black; */
+  margin: 0 auto;
+  border-radius: 5px;
+  margin-top: 150px;
+  text-align: center;
+  font-size: 2em;
+  background-image: linear-gradient(to bottom, #4b91d8, #ffffff00);
+}

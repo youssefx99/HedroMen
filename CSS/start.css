@@ -1,0 +1,71 @@
+body {
+  background-image: url(../images/StartBackground.jpg);
+  background-size: cover;
+  font-family: "Rubik";
+}
+.container {
+  margin: 50px 100px;
+  /* padding-top: 50px; */
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.container h1 {
+  color: white;
+  font-size: 100px;
+  word-spacing: 20px;
+  letter-spacing: 10px;
+  margin: 50px;
+}
+.container p {
+  /* margin-top: px; */
+  width: 50em;
+  color: white;
+  font-size: 18px;
+  line-height: 1.7;
+  text-align: center;
+}
+.container .startBtn {
+  margin-top: 30px;
+  padding: 20px 150px;
+  font-size: 30px;
+  border-radius: 70px;
+  color: #013e7f;
+  background-color: white;
+  border-color: transparent;
+  transition: 0.4s;
+  cursor: pointer;
+  display: none;
+}
+.container .startBtn:hover {
+  font-size: 25px;
+  background-color: #013e7f;
+  color: white;
+}
+.container .copy {
+  margin-top: 20px;
+  font-size: 22px;
+  color: white;
+}
+
+.SignUPBtn,
+.LoginBtn {
+  margin-top: 30px;
+  padding: 20px;
+  font-size: 22px;
+  margin: 80px 30px 70px 30px;
+  /* border-radius: 10px; */
+  color: #013e7f;
+  background-color: white;
+  border-color: transparent;
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+.SignUPBtn:hover,
+.LoginBtn:hover {
+  background-color: #52a0f4;
+  color: white;
+  border: 2px solid #0a4380;
+}

@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Rubik";
+}
+
+.courseTemp--Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 20px;
+
+  background-image: linear-gradient(to bottom, #dce3ff, #ffffff);
+}
+
+.topicTitle {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  width: 560px;
+}
+
+.videoControlSection {
+  flex: 0 0 auto;
+  position: sticky;
+  top: 20px;
+  border: 1px solid rgb(106, 139, 246);
+  background-image: linear-gradient(to bottom, #94aaff, #ffffff);
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.TopicControls {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* padding: 0px 10px; */
+}
+
+.TopicControls button:focus {
+  outline: none;
+  cursor: pointer;
+}
+
+.TopicControls button {
+  cursor: pointer;
+}
+
+.doneBtn button {
+  border: 3px solid black;
+  width: 170px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 30px;
+}
+
+.starBtn button {
+  border: none;
+  width: 170px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: white;
+  font-size: 50px;
+  margin-right: 10px;
+}
+
+.starBtn button:hover {
+  color: yellow;
+}
+
+.fav-selected {
+  background-color: #ffff64;
+}
+
+.video--iframe {
+  border: 5px solid rgb(17, 108, 237);
+}
+
+.verticalLine {
+  background-color: black;
+  width: 20px;
+  margin: 0px 20px;
+}
+
+.infoSection {
+  border-left: 2px solid black;
+  padding-left: 30px;
+  border: 1px solid rgb(106, 139, 246);
+  background-image: linear-gradient(to bottom, #ced3ff, #dee0ff);
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.infoTitle {
+  font-size: 30px;
+  border-bottom: 2px solid black;
+  margin-bottom: 20px;
+}

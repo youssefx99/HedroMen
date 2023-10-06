@@ -1,0 +1,89 @@
+* {
+  font-family: "Rubik";
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 0.7em;
+}
+
+body {
+  background-image: url("../images/tr.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.setting-container {
+  background-color: rgba(255, 255, 255, 0.821);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 800px;
+}
+
+.setting-container form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  align-items: center;
+}
+
+.setting-container .label-title {
+  font-size: 22px;
+}
+
+.setting-container .input-field {
+  height: 50px;
+}
+
+.setting-container .mb-3 {
+  margin-bottom: 20px;
+}
+
+.setting-container .btn {
+  font-size: 22px;
+  border-radius: 15px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.setting-container .btn:hover {
+  background-color: #afadadad;
+}
+
+.setting-container .logout {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.setting-container .logout button {
+  font-size: 22px;
+  border-radius: 20px;
+  padding: 20px 40px;
+  background-color: #a51515;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.setting-container .change-button {
+  font-size: 18px;
+  border-radius: 5px;
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.5s;
+  margin-top: 10px;
+}
+
+.setting-container .change-button:hover {
+  background-color: #0056b3;
+}

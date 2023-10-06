@@ -1,0 +1,154 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Rubik";
+}
+
+body {
+  background-image: url("../images/tr.jpg");
+  background-size: cover;
+}
+
+.communiteContainerAll {
+  display: flex;
+  flex-direction: column;
+  width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 3px solid rgba(0, 0, 0, 0.278);
+  justify-content: center;
+  /* color: white; */
+  /* align-items: center; */
+}
+
+.psotsControl {
+  /* border: 1px solid black; */
+  width: 220px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.createPost {
+  display: flex;
+  justify-content: space-between;
+}
+
+.createPost i {
+  font-size: 2em;
+}
+
+.createPostBtn {
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 2em;
+  width: 7em;
+  background-color: rgba(177, 218, 254, 0.768);
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.createPostBtn:hover {
+  background-color: rgba(133, 193, 246, 0.768);
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+.createPostBtn:focus {
+  outline: none;
+}
+
+.thePost {
+  border-bottom: 1px solid black;
+  /* background-color: rgb(215, 215, 215); */
+  margin-top: 20px;
+  padding: 20px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.592);
+}
+
+.postComments {
+  /* border: 1px solid black; */
+  /* margin-top: 5px; */
+  padding: 20px;
+  margin-bottom: 35px;
+  /* border-radius: 5px; */
+  color: rgb(40, 40, 40);
+
+  background-color: rgba(255, 255, 255, 0.592);
+
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.theComment {
+  /* border: 1px solid black; */
+  padding: 5px;
+}
+
+.newPost {
+  /* border: 1px solid black; */
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+  justify-content: space-around;
+}
+
+.commentInputField {
+  width: 80%;
+}
+
+.createNewPostPlace {
+  background-color: rgba(52, 52, 52, 0.892);
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  color: white;
+  font-weight: bold;
+  display: none;
+}
+
+.sendPostBtn {
+  display: flex;
+  justify-content: center;
+}
+
+.sendPostBtn button {
+  padding: 10px;
+  width: 90px;
+  margin-top: 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.sendPostBtn button:focus {
+  outline: none;
+}
+
+.titlePostValue {
+  margin-bottom: 15px;
+}
+
+.h1name {
+  font-size: 50px;
+  letter-spacing: 30px;
+  text-align: center;
+  color: white;
+}
+
+.newCommentBtn {
+  padding: 5px;
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+}

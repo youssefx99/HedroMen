@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "quiz": [
+      {
+        "title": "What percentage of Earth's water is freshwater?",
+        "answer_1": "1%",
+        "answer_2": "3%",
+        "answer_3": "10%",
+        "answer_4": "25%",
+        "right_answer": "1%"
+      },
+      {
+        "title": "Which of the following is the largest reservoir of freshwater on Earth?",
+        "answer_1": "Glaciers and ice caps",
+        "answer_2": "Groundwater",
+        "answer_3": "Lakes and rivers",
+        "answer_4": "Atmosphere",
+        "right_answer": "Groundwater"
+      },
+      {
+        "title": "Choose one form of precipitation:",
+        "answer_1": "Rain",
+        "answer_2": "Snow",
+        "answer_3": "Both of them",
+        "right_answer": "Both of them"
+      },
+      {
+        "title": "Groundwater discharged to:",
+        "answer_1": "Rivers",
+        "answer_2": "Air",
+        "answer_3": "Lower surfaces of earth",
+        "right_answer": "Lower surfaces of earth"
+      },
+      {
+        "title": "The distribution of water on Earth is uneven and becoming increasingly unpredictable due to climate change. It is important to understand how water is distributed and how it is being affected by climate change so that we can manage water resources sustainably.",
+        "answer_1": "True",
+        "answer_2": "False",
+        "right_answer": "True"
+      }
+    ],
+    "article": [
+      {
+        "id": 1,
+        "title": "The water budget: the distribution of water on Earth",
+        "image": "../images/article1img.png",
+        "body": "Water is essential for life, and it is important to understand how it is distributed on Earth. The vast majority of water on Earth is in the oceans, which account for about 97% of the total. The remaining 3% is freshwater, which is found in glaciers, ice caps, groundwater, lakes, rivers, and the atmosphere.Freshwater, Freshwater is unevenly distributed on Earth. About 69% of freshwater is locked up in glaciers and ice caps, with most of the rest found in groundwater. Only a small fraction of freshwater is found in surface water bodies, such as lakes and rivers. Surface water Surface water is the most accessible form of freshwater, but it is also the most vulnerable to pollution and overuse. Rivers and lakes provide drinking water for billions of people, and they are also important for irrigation, transportation, and recreation. Groundwater Groundwater is water that is stored underground in aquifers. Aquifers are porous rock formations that can hold large amounts of water. Groundwater is a valuable source of drinking water, and it is also used for irrigation and industrial purposes. The water cycle The water cycle is the process by which water moves around the Earth. It is a continuous process that involves evaporation, condensation, precipitation, and runoff. Evaporation is the process by which water changes from a liquid to a gas. When water evaporates, it enters the atmosphere as water vapor. Condensation is the process by which water vapor changes back into a liquid. When water vapor condenses, it forms clouds. Precipitation is the process by which water falls from the sky as rain, snow, sleet, or hail. Runoff is the process by which water flows over the land surface and into rivers, lakes, and oceans. Climate change and water Climate change is having a significant impact on the distribution of water on Earth. Global warming is causing sea levels to rise, and it is also leading to more extreme weather events, such as droughts and floods. These changes are disrupting the water cycle and making it more difficult to manage water resources. Conclusion The distribution of water on Earth is uneven and becoming increasingly unpredictable due to climate change. It is important to understand how water is distributed and how it is being affected by climate change so that we can manage water resources sustainably. Here are some additional facts about the distribution of water on Earth: About 1.386 billion cubic kilometers (333 million cubic miles) of water exists on Earth. Only 2.5% of Earth's water is freshwater. Of the freshwater on Earth, 68.7% is in glaciers and ice caps, 30.1% is in groundwater, and 1.2% is in surface water bodies. The remaining freshwater is found in the atmosphere and in living organisms. The average human uses about 150 liters (40 gallons) of water per day. Water is a precious resource, and it is important to use it wisely. We can all do our part to conserve water by taking shorter showers, fixing leaky faucets, and watering our lawns less often."
+      }
+    ],
+    "videos": [
+      {
+        "id": "Video",
+        "title": "Importance of Water and Its Uses",
+        "videoLink": "https://www.youtube.com/embed/HLJl6MDuCWQ?si=uVB6CfHiSS5pKMVT",
+        "transcript": "water covers more than 3/4 of the Earth's surface it fills lakes seas and rivers 97% of all of Earth's water is seawater one percent is fresh water and two percent is in the form of ice water is essential for all living things for example plants cannot produce their food without water their leaves use carbon dioxide and water in the presence of sunlight to produce food this food is transported from their leaves to other parts using water roots of a plant absorb salt and minerals by taking in water from the soil but not only do plants need water all living things need water to survive of 70 percent of your body and your blood consists of 90 percent water many of the chemical reactions in your body take place in water food that has been digested dissolves in water and then water carries the nutrients in it to all the different parts of your body water also removes waste products from your body and cleanses it from within your body temperature is kept normal by sweating in hot weather to cool down this would not be possible if there was no water in your body water is also important because it is the home of marine life oxygen and other substances that dissolve in water are important for the survival of all aquatic life including plants and fish fish absorb the oxygen and water through their gills time for an exercise can you think of three other ways that water is important here what spikey and bubbles came up with cooking hygiene keeping houses and communities clean you do today we learned that water covers more than three-fourths of the Earth's surface and is important for the survival of plants animals humans and marine life"
+      },
+      {
+        "id": "Video",
+        "title": "Water Cycle | How the Hydrologic Cycle Works",
+        "videoLink": "https://www.youtube.com/embed/al-do-HGuIk?si=P7ogRr4LuvZ0gQou",
+        "transcript": "All the water on Earth today, every drop, is all the water there has ever been on the planet. Freshwater is actually millions of years old. The same water, flowing in a continuous loop- falling as rain and snow from clouds to the Earth's surface, running in rivers, pooling in ponds, flowing from faucets, irrigating crops, traveling through plants, generating power, eventually evaporating into the air and condensing into clouds again. ANNA MICHALAK: Why is there life on Earth? The reason there is life on Earth is because Earth has this perfect water cycle. THOMPSON: The Water Cycle, so simple even small children understand the basics, yet so complex, the most advanced earth scientists, hydrologists, geologists, and biogeochemists are studying every part and process. MARTHA CONKLIN: The Water Cycle is fascinating. It's something that's around us all the time, and yet we don't really understand it. THOMPSON: How to summarize what is known about the Water Cycle? With two words- flows and stores. The Water Cycle is a series of flows of water between various water stores or storages. Clouds in the atmosphere... TOM HARMON: There's always a little bit of water in the atmosphere. We talk about relative humidity- it's a humid day, it's a dry day- either way, there's water, sometimes a little, sometimes a lot. THOMPSON: There's a lot of water in the oceans – 70% of all the water on Earth, in the ice sheets and glaciers - two-thirds of all the fresh water on Earth, in the snow packs atop mountains like the Sierra Nevada, in the Great Lakes, in rivers and streams, in reservoirs and watersheds, in wetlands, in the soil, in and on plants and trees rooted in the soil, and beneath the soil, in water tables and underground aquifers like the Ogallala-High Plains, which runs underneath parts of eight states, from South Dakota to Texas. All this storage is temporary. Water, in all its forms, is always in flux and always moving. And there's a name for every kind of movement in the Water Cycle starting with precipitation. MICHALAK: Precipitation is the process of water falling onto the surface of the Earth. You can have precipitation in many forms- rain, snow, hail. THOMPSON: Rain is falling water in liquid form. Snow, ice, hail and sleet are falling water in solid, or frozen form. Fog and mist? Falling water in gas or vapor form. Precipitation that falls directly into the oceans becomes part of surface ocean and can be churned by wave and wind action into ocean currents. Rain and snow that falls directly on rivers and streams becomes one part of stream flow. Rain that falls onto land takes a different path to the river as does the snow and ice that falls and collects on mountaintops when temperatures warm. CONKLIN: When snow melts, some of it runs through the snowpack and goes into small streams, tributaries that feed into large rivers. THOMPSON: What about the precipitation that falls on and over land? Some is intercepted by vegetation - plants and trees. HARMON: Like you might imagine, someone in a game of football intercepting a pass, these are raindrops trying to come to the ground, and leaves on the tree intercept them before they hit the ground. THOMPSON: And the precipitation that does hit the ground? It can run off if the ground is hardscaped - covered with asphalt or concrete- or if the soil is too wet, or saturated to absorb more water, like an over soaked sponge. Otherwise, precipitation infiltrates the soil surface, percolates into the ground. HARMON: Think of it as the water percolating through your coffee grounds in the morning. Gravity continues to pull it downwards so it will move through. THOMPSON: Through the topsoil, into spaces between soil and rock particles, down to bedrock, and further, into fractures, into deep underground aquifers. Even groundwater here is moving sideways, or laterally, discharging toward a river, lake or the sea, generally the deeper the flow, the slower the flow. CONKLIN: Some of that fractured water might take a very long time, thousands to millions of years, to get out. THOMPSON: And how does water get back out into the atmosphere? It evaporates, is turned from a liquid into a gas or vapor, by the heat of the sun. MICHALAK: If you put a bit of water into a bowl and you set it outside on a sunny day, it's going to disappear. It's still water, it's just in the form of a gas rather than in the form of a liquid. THOMPSON: Water evaporates from every wet surface – even from wet air. Some rain and snow evaporates into the air while falling. Water evaporates through our respiration and perspiration and from plants, through transpiration. Trans means through or across. Plant roots draw up groundwater. MICHALAK: And plants pull that water up through their stems into their leaves and then release it back out through evapotranspiration. THOMSPON: Evaporanspiration, a spelling bee worthy term for evaporation from soil and water surfaces, plus transpiration from plants. Evaporated water molecules are tiny enough to flow into the air. Mix with smoke and dirt particles in the atmosphere. Cool, condense, into visible masses of water vapor – clouds. Winds move clouds into colder air, water droplets collide and merge, grow bigger and heavier, until they are so heavy, they fall again as rain or snow, sleet or hail. Precipitation. Collection. Runoff. Interception. Infiltration. Percolation. Discharge. Transpiration. Evaporation. Condensation. The Water Cycle. ♫MUSIC♫"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "quiz": [
+      {
+        "title": "2-What percentage of Earth's water is freshwater?",
+        "answer_1": "1%",
+        "answer_2": "3%",
+        "answer_3": "10%",
+        "answer_4": "25%",
+        "right_answer": "1%"
+      },
+      {
+        "title": "Which of the following is the largest reservoir of freshwater on Earth?",
+        "answer_1": "Glaciers and ice caps",
+        "answer_2": "Groundwater",
+        "answer_3": "Lakes and rivers",
+        "answer_4": "Atmosphere",
+        "right_answer": "Groundwater"
+      },
+      {
+        "title": "Choose one form of precipitation:",
+        "answer_1": "Rain",
+        "answer_2": "Snow",
+        "answer_3": "Both of them",
+        "right_answer": "Both of them"
+      },
+      {
+        "title": "Groundwater discharged to:",
+        "answer_1": "Rivers",
+        "answer_2": "Air",
+        "answer_3": "Lower surfaces of earth",
+        "right_answer": "Lower surfaces of earth"
+      },
+      {
+        "title": "The distribution of water on Earth is uneven and becoming increasingly unpredictable due to climate change. It is important to understand how water is distributed and how it is being affected by climate change so that we can manage water resources sustainably.",
+        "answer_1": "True",
+        "answer_2": "False",
+        "right_answer": "True"
+      }
+    ],
+    "article": [
+      {
+        "id": 1,
+        "title": "Sea level rise due to climate change: What you need to know",
+        "image": "../images/article2img.png",
+        "body": "Sea level rise is one of the most serious consequences of climate change. As the planet warms, the oceans expand and glaciers and ice sheets melt, adding water to the oceans. This is causing sea levels to rise all over the world, and the rate of rise is accelerating. Sea level rise is already having a significant impact on coastal communities. It is causing more frequent and severe flooding, erosion, and saltwater intrusion. It is also damaging infrastructure, displacing people, and disrupting economies. The impacts of sea level rise are expected to become even more severe in the future. According to the Intergovernmental Panel on Climate Change (IPCC), global sea levels could rise by 0.26 to 0.77 meters (10 to 30 inches) by 2100 under a scenario where greenhouse gas emissions continue to rise at current rates. Even if we are able to reduce greenhouse gas emissions and limit global warming to 1.5 degrees Celsius, sea levels are still projected to rise by 0.1 to 0.3 meters (4 to 12 inches) by 2100. What are the causes of sea level rise? There are two main causes of sea level rise due to climate change: Thermal expansion: As the oceans warm, seawater expands and takes up more space. This is the largest contributor to sea level rise today. Melting of land-based ice: Melting glaciers and ice sheets are adding more water to the oceans. This is a growing contributor to sea level rise, and it is expected to become even more important in the future. What are the impacts of sea level rise? Sea level rise is already having a significant impact on coastal communities around the world. Some of the most common impacts include: Flooding: Sea level rise is causing more frequent and severe flooding, both from storm surges and from tidal flooding. This is damaging infrastructure, displacing people, and disrupting economies. Erosion: Sea level rise is accelerating coastal erosion, as waves and tides reach further inland. This is threatening homes, businesses, and other infrastructure. Saltwater intrusion: Sea level rise is causing saltwater to intrude into freshwater aquifers, making them unusable for drinking and irrigation. This is a major problem for coastal communities that rely on groundwater for their water supply. Loss of coastal wetlands: Sea level rise is inundating coastal wetlands, which are important for flood control, water filtration, and wildlife habitat. What can be done about sea level rise? The best way to address sea level rise is to reduce greenhouse gas emissions and limit global warming. We can do this by transitioning to clean energy sources, improving energy efficiency, and reducing our reliance on fossil fuels. In addition to reducing greenhouse gas emissions, we also need to adapt to the impacts of sea level rise that are already happening and that are inevitable in the future. This includes building seawalls and other coastal defenses, elevating infrastructure, and relocating people and communities away from vulnerable areas. Sea level rise is a serious threat to coastal communities around the world. However, by taking action to reduce greenhouse gas emissions and adapt to the impacts, we can minimize the damage and protect our coastal communities."
+      }
+    ],
+    "videos": [
+      {
+        "id": "Video",
+        "title": "The impact of climate change on the water cycle",
+        "videoLink": "https://www.youtube.com/embed/Q8B4tST8ti8?si=wd30dtXM4QpNx-V0",
+        "transcript": "When they could Stay With Me compensation For A Reason is what what the treatment with her car club stapleton estradiol In the Minutes per le chemin des tourelles được em còn Anyone that practice for that has the wet method a practical for the school of the Dead vietsub dẫn này nhưng mà trời sao lâu quá phải là tệ sinh của The struggle against your phone as We strive to one từ khóa lại cho nó sẽ weslife devant live with gentle Monster Because I can understand what We live for advancement and professional sound strange foreign journalists osmanthus tagged Ừ từ chất liệu sheer color water cycle to school late for work Just Dance Rất bảo anh Giuse Rooney papyrus sẽ dùng password iCloud official site spots of delaware Survival instinct school entrance of strange dishes are welcome spring Dream Future lies in the west Life is small and restaurant address of responses to know the value of the most Amazing For the what happens We cut down many forests forestry and Stories that reflects Paul verlaine thẻ Vietnam for the Soul the weather Castle Turn Around It's almost all That is the problem Of World War Of The girls kara music app shows the West and step Together well established with ở Việt Nam ten ten ten day smartdefrag Amazing Graphics and forests and had finished Life never know wanna know when deckard format background and friends come and restaurant another person with something Minecraft Dragon City Wave of one's disciples putnam is possible to restrain Aquarius acoustimass reports of value of Pink petal Fresh Mega solution to the west of this local weather aligned with something that love you tell me it's past lives of vehicle parts Were awarded A parasitic halmahera Face responded with the punches Alpha Custom Madrid Amazone existence of Vanilla henantrua enter your articles you a hundred year I ừ ừ"
+      },
+      {
+        "id": "Video",
+        "title": "More intense storms and droughts",
+        "videoLink": "https://www.youtube.com/embed/oQEXxw3_KA4?si=3ZG9MlTx7evcpVO-",
+        "transcript": "currently in the west a lot of regions including major cities in much of california get their water supply from water that fell as snow in mountains and then melts runs off during the spring and early summer into rivers where it's then used during the hot dry season for residential and agricultural purposes as climate warms that snow melt timing is going to move earlier and earlier in the season so snow melts earlier in the spring and more precipitation will fall as rain rather than snow and so that leads to longer drier summers because the snow melt coming down the river has coming down the river earlier it's peaking earlier and then the length of the dry season is thereby lengthened so the supply of water when we really need it in the summer will be reduced and that's especially important for places like california which gets a little of their precipitation in the summertime"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "quiz": [
+      {
+        "title": "2-What percentage of Earth's water is freshwater?",
+        "answer_1": "1%",
+        "answer_2": "3%",
+        "answer_3": "10%",
+        "answer_4": "25%",
+        "right_answer": "1%"
+      },
+      {
+        "title": "Which of the following is the largest reservoir of freshwater on Earth?",
+        "answer_1": "Glaciers and ice caps",
+        "answer_2": "Groundwater",
+        "answer_3": "Lakes and rivers",
+        "answer_4": "Atmosphere",
+        "right_answer": "Groundwater"
+      },
+      {
+        "title": "Choose one form of precipitation:",
+        "answer_1": "Rain",
+        "answer_2": "Snow",
+        "answer_3": "Both of them",
+        "right_answer": "Both of them"
+      },
+      {
+        "title": "Groundwater discharged to:",
+        "answer_1": "Rivers",
+        "answer_2": "Air",
+        "answer_3": "Lower surfaces of earth",
+        "right_answer": "Lower surfaces of earth"
+      },
+      {
+        "title": "The distribution of water on Earth is uneven and becoming increasingly unpredictable due to climate change. It is important to understand how water is distributed and how it is being affected by climate change so that we can manage water resources sustainably.",
+        "answer_1": "True",
+        "answer_2": "False",
+        "right_answer": "True"
+      }
+    ],
+    "article": [
+      {
+        "id": 1,
+        "title": "The importance of water conservation and efficiency",
+        "image": "../images/article3img.jpg",
+        "body": "Water conservation and efficiency are essential for ensuring that everyone has access to clean water, both now and in the future. Water is a finite resource, and climate change is making it even more precious. Water conservation is the practice of using water wisely and reducing waste. Water efficiency is the use of technology and practices to reduce the amount of water used for a specific purpose. There are many ways to conserve water and improve efficiency. Some simple tips include: Turn off the faucet when you brush your teeth or shave. Take shorter showers. Fix any leaky faucets or pipes. Water your lawn and garden less often and more deeply. Install water-efficient appliances and fixtures. Water conservation and efficiency are important for a number of reasons. First, they can help to reduce our impact on the environment. Water treatment and delivery require energy, and pumping water from underground aquifers can lower the water table. Conserving water helps to reduce our reliance on these energy-intensive and environmentally damaging practices. Second, water conservation and efficiency can save us money. Water bills can be a significant expense, especially for families with large households. By reducing our water usage, we can lower our bills. Third, water conservation and efficiency can help to ensure that everyone has access to clean water. As the population grows and the climate changes, water resources are becoming increasingly scarce. By conserving water and improving efficiency, we can help to ensure that there is enough water for everyone. There are a number of things that governments and businesses can do to promote water conservation and efficiency. Governments can provide financial incentives for people and businesses to install water-efficient appliances and fixtures. They can also invest in water-efficient irrigation systems and other infrastructure. Businesses can develop new water-efficient products and technologies. Individuals can also play a role in promoting water conservation and efficiency. By making small changes in our daily lives, we can make a big difference. Here are some additional benefits of water conservation and efficiency: Reduced pollution: Conserving water helps to reduce the amount of wastewater that needs to be treated. This can help to improve water quality and reduce pollution in our waterways. Improved public health: Access to clean water is essential for public health. Conserving water helps to ensure that everyone has access to the clean water they need to stay healthy. Increased economic activity: Water-efficient businesses and industries are more competitive and can create more jobs. Water conservation and efficiency are essential for protecting our environment, our economy, and our health. By making small changes in our daily lives, we can all make a difference."
+      }
+    ],
+    "videos": [
+      {
+        "id": "Video",
+        "title": "How to manage water resources in the face of climate change.",
+        "videoLink": "https://www.youtube.com/embed/czlP_UaVxbE?si=pLYjLw__Ap8k4Man",
+        "transcript": "climate change is stressing water management across california we're seeing warmer temperatures shrinking snowpack [Music] shorter wet seasons and rising seas put simply the dry years are getting drier and the wet years wetter all this is making it tougher to manage our water supply control floods and maintain ecosystem health today and it most certainly will make it harder in the future california is not ready for these changes most of the state's nearly 1500 dams and thousands of miles levees are aging and in need of upgrades our water supply grid lacks the capacity to effectively store more water underground and our freshwater ecosystems are in serious decline we need to make strategic investments to reduce climate impacts on our water system and restore the health of our freshwater ecosystems storage will be key to adapting to climate change we need to move high winter flows into groundwater storage so that we have supplies available in drought years this requires new canals and other ways to move water around and new state policies so that the surface and groundwater can be managed together the state will also need to change the way it operates dams in order to adapt to increasing threats from floods and droughts we can also invest more in urban conservation and alternative water supplies such as water recycling and storm water capturing which can boost local supply and ease the burden on the state's water grid and we need to change course on the way we manage our freshwater ecosystems this will involve integrating habitat improvements into all facets of water management which will benefit fish and wildlife and reduce conflicts over water supply despite its many problems california's water system has mostly served the state well with adequate investments and strong leadership we can adapt to changing conditions and meet the needs of all californians"
+      },
+      {
+        "id": "Video",
+        "title": "Adaptation strategies for reducing the vulnerability of water systems to climate change.",
+        "videoLink": "https://www.youtube.com/embed/2vqPfY7LjP8?si=Nk9UrGn2lZx8L3_y",
+        "transcript": "what's the difference between adaptation and mitigation adaptation is trying to fix the effects of climate change and mitigation is trying to fix the cause of climate change but let's break down their differences and provide some examples let's start with adaptation adaptation means finding solutions to actual or anticipated effects of the climate crisis and either prevent or minimize the damage it can cause it's adapting but it doesn't really tackle the source of the problem say you're on a ship with a leak you'll want to take action before you sink so maybe you grab a bucket and start bailing water out but regardless of how efficient that might be that's adaptation because you're not doing anything about the hole in the boat which represents irreversible climate change but you can do something about the water which is the effect of climate change in real life adaptation can be building defenses against sea level rise or behavioral shifts like reducing your food waste eating less meat using less plastic saving water etc it's basically a way to adjust our ways to live in a future severely impacted by the climate crisis now what does mitigation mean well unlike adaptation mitigation tries to fix the problem at the source the ipcc report defines mitigation as quote human intervention to reduce the sources or enhance the sinks of greenhouse gases so let's hop back on the sinking shell this time instead of trying to deal with the water you're going straight for the hole and sealing it up to stop the water altogether in a real life situation this would mean reducing the sources of greenhouse gases like the burning of fossil fuels or retrofitting buildings and vehicles to be more energy efficient but it also means enhancing carbon sinks to suck carbon out of the air with efforts like reforestation preserving ocean health soil enrichment or even carbon capture technology basically the goal with mitigation is to stabilize greenhouse gas levels enough to where ecosystems can naturally adapt to climate change our food production is not threatened and allow economic development to grow in a sustainable way all that according to the ipcc report of course it's important to know that although these two responses are because of the same crisis no single option isn't enough on its own we've unfortunately reached a point where no one single path will save us we see a lot of solutions trying to implement adaptation to a problem that can still be mitigated and sometimes we see solutions trying to mitigate a problem that is way past the point of no return and all we have left to do is adapt to the changes so we need better solutions and policies that link both mitigation and adaptation and we need all hands on deck to save the sinking ship our planet"
+      }
+    ]
+  }
+]

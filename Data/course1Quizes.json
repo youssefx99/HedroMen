@@ -1,0 +1,38 @@
+[
+  {
+    "title": "What percentage of Earth's water is freshwater?",
+    "answer_1": "1%",
+    "answer_2": "3%",
+    "answer_3": "10%",
+    "answer_4": "25%",
+    "right_answer": "1%"
+  },
+  {
+    "title": "Which of the following is the largest reservoir of freshwater on Earth?",
+    "answer_1": "Glaciers and ice caps",
+    "answer_2": "Groundwater",
+    "answer_3": "Lakes and rivers",
+    "answer_4": "Atmosphere",
+    "right_answer": "Groundwater"
+  },
+  {
+    "title": "Choose one form of precipitation:",
+    "answer_1": "Rain",
+    "answer_2": "Snow",
+    "answer_3": "Both of them",
+    "right_answer": "Both of them"
+  },
+  {
+    "title": "Groundwater discharged to:",
+    "answer_1": "Rivers",
+    "answer_2": "Air",
+    "answer_3": "Lower surfaces of earth",
+    "right_answer": "Lower surfaces of earth"
+  },
+  {
+    "title": "The distribution of water on Earth is uneven and becoming increasingly unpredictable due to climate change. It is important to understand how water is distributed and how it is being affected by climate change so that we can manage water resources sustainably.",
+    "answer_1": "True",
+    "answer_2": "False",
+    "right_answer": "True"
+  }
+]
