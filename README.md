@@ -60,10 +60,10 @@ Our journey was challenging but rewarding. We've learned the importance of teamw
 
 
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)]([https://www.youtube.com/embed/<VIDEO_ID>](https://www.youtube.com/watch?v=hqf8SFibH9c&ab_channel=%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%7CElphzy2e))
 
 [<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/<VIDEO_ID>)
+/>]([https://www.youtube.com/embed/<VIDEO_ID>](https://www.youtube.com/watch?v=hqf8SFibH9c&ab_channel=%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%7CElphzy2e))
 
 
 Enjoy your Aqua Water System journey! Dive in and explore the wonders of water and climate change. 🌊🌏🌞 #SpaceAppsCairo2023 #AquaWaterSystem
