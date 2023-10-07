@@ -59,7 +59,7 @@ Our journey was challenging but rewarding. We've learned the importance of teamw
 - [World Water Atlas](https://www.worldwateratlas.org/methodologies/)
 
 ## 🎥 Video Presentation 🎥
-[Watch the video presentation here](https://www.youtube.com/watch?v=hqf8SFibH9c&ab_channel=%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%7CElphzy2e)
+[![Watch the video presentation here](https://img.youtube.com/vi/hqf8SFibH9c/0.jpg)](https://www.youtube.com/watch?v=hqf8SFibH9c&ab_channel=%D8%A7%D9%84%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A6%D9%8A%7CElphzy2e)
 
 
 
