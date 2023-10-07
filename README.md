@@ -58,10 +58,7 @@ Our journey was challenging but rewarding. We've learned the importance of teamw
 - [NASA Earth Science](https://science.nasa.gov/earth-science/oceanography/ocean-earth-system/ocean-water-cycle)
 - [World Water Atlas](https://www.worldwateratlas.org/methodologies/)
 
-[![Watch the video](https://img.youtube.com/vi/hqf8SFibH9c&ab_channel=الفيزيائي%7CElphzy2e/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
-
-[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/hqf8SFibH9c&ab_channel=الفيزيائي%7CElphzy2e)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hqf8SFibH9c&ab_channel=الفيزيائي%7CElphzy2e)](https://www.youtube.com/watch?v=hqf8SFibH9c&ab_channel=الفيزيائي%7CElphzy2e)
 
 
 
