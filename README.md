@@ -58,7 +58,12 @@ Our journey was challenging but rewarding. We've learned the importance of teamw
 - [NASA Earth Science](https://science.nasa.gov/earth-science/oceanography/ocean-earth-system/ocean-water-cycle)
 - [World Water Atlas](https://www.worldwateratlas.org/methodologies/)
 
-## 🎥 Video Presentation 🎥
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hqf8SFibH9c?si=c5GQST55xTTB5CtM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<VIDEO_ID>)
+
+[<img src="https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<VIDEO_ID>)
+
 
 Enjoy your Aqua Water System journey! Dive in and explore the wonders of water and climate change. 🌊🌏🌞 #SpaceAppsCairo2023 #AquaWaterSystem
