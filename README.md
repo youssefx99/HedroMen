@@ -1,5 +1,6 @@
 # 🚀 NASA Space Apps Cairo 2023 | Aqua Water System ReadMe 🌊
 
+** First open cmd and change direction to game 'Water Cycle Game' Folder and then type `python -m http.server 8000`
 Welcome to Aqua Water System, where we dive deep into the fascinating world of water and climate change! 🌍💧
 
 
